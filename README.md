@@ -1,1 +1,1 @@
-# dev_magnus
+# amazon_clone
